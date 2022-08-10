@@ -1,6 +1,66 @@
-My name is Tj I'm 16 and I am a .py/.js discord bot developer you can join my server here [Discord Server](https://dsc.gg/aflac)
-You can also support my work by buying a discord bot of your very own on my website
-[Website](https://cbts.glitch.me) I'm looking to collab with any 
-other bot developers if you want to contact me email me at CursedBotsHelp@gmail.com or on discord @CursedBotsDev#2356 
-All of my bots are open sourced and I link all repositorys in a credit command that my bots will have so you can see the origianl creators code
-I like to work with people and I am more than happy to help with any coding if possible just join my server or email me at any time and I will reply as soon as possible 
+Hello my name is Tj I'm the Owner and Founder of <a href="https://cursedbots.xyz">CursedBots</a>
+I'm a web developer as well as a discord bot developer. 
+
+> My preferred languages
+
+JavaScript
+
+Python
+
+HTML
+
+CSS
+
+> My social Links
+
+Website 
+
+https://cursedbots.xyz
+
+Chat Site
+
+https://chat.cursedbots.xyz
+
+Community Forum
+
+https://forums.cursedbots.xyz
+
+Twitter 
+
+https://twitter.com/cbtsxyz
+
+Discord 
+
+https://discord.gg/ztqj9kWa2d
+
+> Friends/Partners
+
+SomeList
+
+https://sonelist.tk
+
+One Development
+
+https://onedevs.tk
+
+> Services I use
+
+Vercel
+
+https://vercel.com
+
+Uptime Robot
+
+https://uptimerobot.com
+
+Glitch
+
+https://glitch.com
+
+Replit
+
+https://replit.com
+
+Stack Overflow
+
+https://stackoverflow.com
